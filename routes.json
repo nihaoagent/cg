@@ -1,0 +1,9 @@
+{
+  "version" : 6,
+  "apiRoutes" : [ "https://nihao.chiguala.xyz", "https://zf.chiguala.xyz", "https://nihao.helloguagua.xyz", "https://xuexi.helloguagua.xyz", "https://nihao.higuagua.xyz", "https://xuexi.higuagua.xyz" ],
+  "updateRoutes" : [ ],
+  "healthPath" : "/api/app/health",
+  "issuedAt" : 1779717127,
+  "expiresAt" : 1782309127,
+  "signature" : "1TVbG33MRWMqZcP2+jt7LadArrcKgedRxTgcmOp2IqN2BfjZS7qJss6fLBlrbxZLzsifk8OotLf4hItvAIANAw=="
+}
