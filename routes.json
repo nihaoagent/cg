@@ -3,7 +3,7 @@
   "apiRoutes" : [ "https://nihao.chiguala.xyz", "https://zf.chiguala.xyz", "https://nihao.helloguagua.xyz", "https://xuexi.helloguagua.xyz", "https://nihao.higuagua.xyz", "https://xuexi.higuagua.xyz" ],
   "updateRoutes" : [ ],
   "healthPath" : "/api/app/health",
-  "issuedAt" : 1782564882,
-  "expiresAt" : 1785156882,
-  "signature" : "S9NN7Ue6yaoJDMsvZ4Z8fL6QRpYGOsAZi+vxO3Z5xMH3ZsJ3qaadJjfxsgKw2vk1SGFuaEjegSTQM6tXk9R2Aw=="
+  "issuedAt" : 1785007442,
+  "expiresAt" : 1787599442,
+  "signature" : "S32mJPTL8ss1kSmc5czkWPTyFBTmYSwvESCHm4XrbZLSN4DvQq7mzfVMEiW2ufqa4KlBxkOPsysTWwchu4/SCA=="
 }
